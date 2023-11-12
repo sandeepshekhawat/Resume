@@ -20,8 +20,8 @@ resume_contact_email:           "sshkehawat535@gmail.com"
 resume_contact_telephone:       "7425823678"
 resume_contact_address:         "Bangalore, India "
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+# display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Hi, I am passionate about learning new technologies and tackling complex problems while focusing on keeping the solution as simple and elegant as possible.
 Conscientious and meticulous aspiring software engineer with a varied and
