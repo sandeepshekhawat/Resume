@@ -3,9 +3,14 @@
 - company: OpenText India
   position: Software Engineering Intern
   duration: Oct, 2023 &mdash; Present
-  summary: ● Worked on a project with millions of users and with a backend of 1 million lines of code on a cloud based infrastructure.
-           ● Migrated Complete source code from Python 2 to Python 3.
-           ● Automated the QA using RobotFrameWork having 20K Test Cases.<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: 
+           
+           
+           <ul class="resume-item-list">
+           <li>● Worked on a project with millions of users and with a backend of 1 million lines of code on a cloud based infrastructure.</li>
+           <li>● Migrated Complete source code from Python 2 to Python 3.</li>
+           <li>● Automated the QA using RobotFrameWork having 20K Test Cases.</li>
+           </ul>
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
 #   position: Director of Digital Strategy

@@ -23,7 +23,11 @@ resume_contact_address:         "Bangalore, India "
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hi, I am passionate about learning new technologies and tackling complex problems while focusing on keeping the solution as simple and elegant as possible.
+Conscientious and meticulous aspiring software engineer with a varied and
+complementary skill set and experience working on a variety of projects.
+Comprehensive knowledge on problem solving, data management, excellent
+communication, and project management skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
